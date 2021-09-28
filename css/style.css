@@ -115,3 +115,7 @@ caption {
     position: absolute;
     width: 1px;
 }
+.break{
+    font-size: larger;
+    font-weight: bolder;
+}
